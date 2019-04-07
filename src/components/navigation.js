@@ -14,7 +14,7 @@ const Navigation = props => {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
                         <Nav.Link><Goto to="/financial-markets/">Financial Markets</Goto></Nav.Link>
-                        <Nav.Link><Goto to="/corporate-banking/">Corporate</Goto></Nav.Link>
+                        <Nav.Link><Goto to="/corporate-banking/">Corporate Banking</Goto></Nav.Link>
                         <Nav.Link><Goto to="/regulations/">Regulations</Goto></Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
