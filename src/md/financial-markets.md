@@ -44,6 +44,7 @@ More information
 More information
 
 ## Spot markets
+The spot market is where the value of the securities or commodities are traded immediately. This is in contrast to the futures market where the trades values take place at a future date. Spot markets can also cater to goods sold immediately but ownership is transacted at a later date like crude oil. A company may buy crude oil at the current price but only have the oil delivered in the following month.
 
 **Non-Deliverable Forwards** | An NDF is a forwards contract, usually short-term, between two parties to settle a profit or loss by taking the difference between the agreed rate and the spot rate of a foreign currency. Corporations use NDFs off-shore to hedge against illiquid currencies where the country does not allow the currency to be exchanged.
 
