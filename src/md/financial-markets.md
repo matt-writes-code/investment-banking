@@ -49,3 +49,7 @@ More information
 **Long** | A trader owns the shares he intends to sell. This position is used in a bull market. He speculates that stock prices will rise in the future.
 
 **Short** | A trader sells borrowed stocks he does not own. The trader will need to buy the stocks back in the future to return to the owner with interest. This position is used in a bear market. He sells high, speculating that the prices will fall and repurchase them at a lower price. If the stock price rises, the trader makes a loss in buying the borrowed shares to return them.
+
+**Haircut** | A haircut has two definitions with respect to market makers and loans.
+- Market makers: A haircut is the small difference between the buy and sell price of a securities in a stagnant market. An investor may buy a stock for $10 and sell them for $10.05 to make a small profit of 5 cents per stock - the haircut.
+- Loans: Securities used as a collatoral for a debt may be devalued slightly to provide a cushion for the lender in case the price of the stocks fall. The devaluation is called the haircut. An investment bank may devalue a borrower's share price used as collateral from $100 to $80.
