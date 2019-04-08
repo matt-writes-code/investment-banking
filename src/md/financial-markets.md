@@ -6,7 +6,16 @@ path: "/financial-markets"
 Quick notes and references.
 
 ## Capital markets
-More information
+
+Capital markets are markets that connect investor funds and institutions that need them. Investors enter capital markets with the intention of growing money they own, whereas institutions borrow funds for business expansion and day-to-day operations. Capital markets are divided in to two markets. 
+
+- Primary markets: These are the markets where institution offer securities to investors for the first time, like an Initial Public Offering (IPO). This is the only time where institutions receive the money. New securities issued are also part of the primary market.
+- Secondary markets: This market is where investors trade securities already issued. Secondary markets are overseen by regulators like the SEC. Institutions do not receive additional funds here.
+
+**Securities** | Securities are negotiable financial instruments that hold monetary value. Types of securities:
+- Equity security: Ownership of a company in the form of stocks.
+- Debt security: Representation of money that is borrowed and must be repaid. Examples are bonds, certificate of deposits, collatarised securities.
+- Hybrid security: A combination of equity and debt securities. Examples are equity warrants, convertible bonds, and preferrence shares.
 
 ## Money markets
 More information
@@ -18,9 +27,9 @@ More information
 
 **Options** | Options can be stocks, bonds, ETFs, or mutual funds that give the buyer of the option to exercise his right to buy 
 
-**Call option** | A buyer with a call option has the right, but not the obligation to buy a stock at the strike price. If the price of stock rises, the buyer makes a profit by purchasing them at a lower price when the options was written. If the price falls, the buyer can choose to let the contract expire. Options come at a high premium because of the risk the seller takes.
+**Call option** | A buyer with a call option has the right, but not the obligation to **buy** a stock at the strike price. If the price of stock rises, the buyer makes a profit by purchasing them at a lower price when the options was written. He then sells the stocks at the high price in the market for a profit. If the price falls, the buyer can choose to let the contract expire. Options come at a high premium because of the risk the seller takes.
 
-**Put option** | A seller with a put option has the right, but not the obligation to sell a stock at the strike price. If the price of a stock falls, the seller can sell the stock at the higher price before it fell. If the price rises, the seller can choose to let the option expire and sell the stock in the market instead.
+**Put option** | A seller with a put option has the right, but not the obligation to **sell** a stock at the strike price. If the price of a stock falls, the seller can sell the stock at the higher price it was before it fell. If the price rises, the seller can choose to let the option expire and sell the stock in the market instead. Like call options, put options have high premiums too. 
 
 **Strike price** | The price at which a derivative can be excercised in the future. In a call option, the strike price is the price at which the buyer can purchase a security. In a put option, the strike price is the price at which the seller can sell a security.
 
