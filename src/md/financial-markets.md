@@ -18,7 +18,9 @@ Capital markets are markets that connect investor funds and institutions that ne
 - Hybrid security: A combination of equity and debt securities. Examples are equity warrants, convertible bonds, and preferrence shares.
 
 ## Money markets
-More information
+**Repurchase agreements** | _Repos_ are short-term debt that issuers, like government institutions, sell in the form of Treasury Bills (T-bills) to raise money. The securities are repurchased from the investor the next day or the following week with interest. Repos are low-risk because of the duration of the loan. _Repos_ are from the sellers perspective - the party that needs the funds.
+
+**Reverse repo** | Reverse repos are issued from the buyer's perspective. The buying bank may have excess cash that it wants to monetize in a short period of time. The buying bank purchases the stock of the seller (borrower) as a collaterised overnight loan. In the event the seller defaults (unable to pay back), the buying bank is liquidated to cover the buying bank's losses. 
 
 ## Commodity markets
 More information
