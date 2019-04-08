@@ -3,13 +3,15 @@ path: "/financial-markets"
 ---
 
 # Financial Markets
-Quick notes and references.
+Financial markets refer to markets where players can trade securities. Trades can take place electronically or physical places like exchanges and counters. The
+- Capital markets are long-term finances and trade for more than a year. They provide businesses and governments with long-term funding.
+- Money markets are short-term finances and trade for less than a year. They provide businesses with credit and liquidity over a short-term to meet working capital requirements.
 
 ## Capital markets
 
 Capital markets are markets that connect investor funds and institutions that need them. Investors enter capital markets with the intention of growing money they own, whereas institutions borrow funds for business expansion and day-to-day operations. Capital markets are divided in to two markets. 
 
-- Primary markets: These are the markets where institution offer securities to investors for the first time, like an Initial Public Offering (IPO). This is the only time where institutions receive the money. New securities issued are also part of the primary market.
+- Primary markets: These are markets where institutions offer securities to investors for the first time, like an Initial Public Offering (IPO). This is the only time where institutions receive the money. New securities issued are also part of the primary market.
 - Secondary markets: This market is where investors trade securities already issued. Secondary markets are overseen by regulators like the SEC. Institutions do not receive additional funds here.
 
 **Securities** | Securities are negotiable financial instruments that hold monetary value. Types of securities:
