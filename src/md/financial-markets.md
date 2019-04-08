@@ -25,3 +25,6 @@ More information
 
 ## Spot markets
 More information
+
+## Terms
+**Proprietary trading** Financial firms or commercial banks that engage in _prop trading_ invest directly in the market for profit rather than earning commission from clients.
