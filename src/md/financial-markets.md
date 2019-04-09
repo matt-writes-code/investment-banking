@@ -7,6 +7,10 @@ Financial markets refer to markets where players can trade securities. Trades ca
 - Capital markets are long-term finances and trade for more than a year. They provide businesses and governments with long-term funding.
 - Money markets are short-term finances and trade for less than a year. They provide businesses with credit and liquidity over a short-term to meet working capital requirements.
 
+**Bid price** | The maximum price an investor is willing to pay for a security.
+
+**Ask price** | The minimum price an investor is willing  to sell a security for.
+
 ## Capital markets
 
 Capital markets are markets that connect investor funds and institutions that need them. Investors enter capital markets with the intention of growing money they own, whereas institutions borrow funds for business expansion and day-to-day operations. Capital markets are divided in to two markets. 
