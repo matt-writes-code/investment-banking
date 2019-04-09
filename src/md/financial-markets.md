@@ -41,7 +41,14 @@ Factors that impact an ETF's performance are:
 **Reverse repo** | Reverse repos are issued from the buyer's perspective. The buying bank may have excess cash that it wants to monetize in a short period of time. The buying bank purchases the stock of the seller (borrower) as a collaterised overnight loan. In the event the seller defaults (unable to pay back), the buying bank is liquidated to cover the buying bank's losses. 
 
 ## Commodity markets
-More information
+
+Commodities are basic goods that are interchangeable with other commodities of the same type. Commodities are extracted in its basic form and brought to a minimum value before being sold to manufacturers. 
+
+Types of commodities:
+- Metals: gold, silver, iron
+- Energy: crude oil, heating oil, natural gas, gasoline
+- Livestock and meat: pork bellies, live cattle
+- Agriculture: corn, wheat, soybeans, coffee, cotton
 
 ## Derivatives markets
 
