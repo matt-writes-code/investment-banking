@@ -11,6 +11,8 @@ Financial markets refer to markets where players can trade securities. Trades ca
 
 **Ask price** | The minimum price an investor is willing  to sell a security for.
 
+**Margin call** | A margin call is made when an investor's required minimum holdings in a margin account fall below a threshold. In margin investments, an investor borrows money to magnify his profits. But when the prices of his investments fall, the broker (borrower) can make a margin call without consulting the investor to sell the investment to bring the account back up to the minumum requirement.
+
 ## Capital markets
 
 Capital markets are markets that connect investor funds and institutions that need them. Investors enter capital markets with the intention of growing money they own, whereas institutions borrow funds for business expansion and day-to-day operations. Capital markets are divided in to two markets. 
@@ -49,14 +51,27 @@ More information
 
 **Strike price** | The price at which a derivative can be excercised in the future. In a call option, the strike price is the price at which the buyer can purchase a security. In a put option, the strike price is the price at which the seller can sell a security.
 
+**Swaps** | A swap allows two parties to exchange financial instruments to align themselves with their respective interests. Interest rates, cashflows, commodities, and debt can be swapped.
+
+- Interest rate swaps: Two companies from two countries each need to take a loan in the other country. Banks however, charge high interest rates to foreign companies. The two companies can both take local loans and **swap** the interest rates with each other and enjoy local interest rates.
+
 ## Futures markets
-More information
 
 ## Foreign exchange markets
 More information
 
 ## Spot markets
 The spot market is where the value of the securities or commodities are traded immediately. This is in contrast to the futures market where the trades values take place at a future date. Spot markets can also cater to goods sold immediately but ownership is transacted at a later date like crude oil. A company may buy crude oil at the current price but only have the oil delivered in the following month.
+
+**TOD** | Payment and transaction will be executed on the **same day** of the order.
+
+**TOM** | Payment and transaction will be executed **1 day*** after the order. The rate quoted is today.
+
+**Spot** | Payment and transaction will be executed **2 days** after the order. The rate quoted is today. Default method of transaction.
+
+**Spot rate** | The immediate purchase price of a currency, commodity, or security. Spot rates are usually posted on exchanges. 
+
+**Forwards** | Payments and transaction will be executed anywhere after 2 days but before a year after the order. The rate quoted is today.
 
 **Non-Deliverable Forwards** | An NDF is a forwards contract, usually short-term, between two parties to settle a profit or loss by taking the difference between the agreed rate and the spot rate of a foreign currency. Corporations use NDFs off-shore to hedge against illiquid currencies where the country does not allow the currency to be exchanged.
 
