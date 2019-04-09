@@ -15,3 +15,4 @@ Team leave: Y:\Trade Surveillance\Communications Surveillance\CS Leave & Task Ro
 
 HR file: \\sgmbffil001\DAT4\Wkgrps\Trade Surveillance\Autonomy\Users\HR_File
 
+Chat retrieval: \\sgmbffil001\DAT4\Wkgrps\Trade Surveillance\Communications Surveillance\Chat Retrieval
