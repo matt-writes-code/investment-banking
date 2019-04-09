@@ -19,6 +19,14 @@ Capital markets are markets that connect investor funds and institutions that ne
 - Debt security: Representation of money that is borrowed and must be repaid. Examples are bonds, certificate of deposits, collatarised securities.
 - Hybrid security: A combination of equity and debt securities. Examples are equity warrants, convertible bonds, and preferrence shares.
 
+**Exchange Traded Funds** | _ETFs_ are designed to track the performance of a security they are designed for. An ETF tracking the oil industry for example, will have oil company stocks and oil commodities in its basket. ETFs are usually sold as unit trusts, allowing retail investors to gain exposure to whole industries by purchasing a portion of the ETF.
+
+Factors that impact an ETF's performance are:
+- Yearly fees: Issuers usually charge a percentage of the total holdings annually.
+- Transaction fees: Issuers can charge a percentage or a fixed fee per batch of ETF bought.
+- Basket make-up: ETFs can consist of investments that are concentrated or diversified in a specific industry. Concentrated baskets can be more sensitive to changes in the industry.
+- Liquidity: A larger difference in the bid and ask price can indicate low liquidity in an ETF.
+
 ## Money markets
 **Repurchase agreements** | _Repos_ are short-term debt that issuers, like government institutions, sell in the form of Treasury Bills (T-bills) to raise money. The securities are repurchased from the investor the next day or the following week with interest. Repos are low-risk because of the duration of the loan. _Repos_ are from the sellers perspective - the party that needs the funds.
 
