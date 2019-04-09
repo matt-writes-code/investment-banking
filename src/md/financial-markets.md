@@ -11,6 +11,8 @@ Financial markets refer to markets where players can trade securities. Trades ca
 
 **Ask price** | The minimum price an investor is willing  to sell a security for.
 
+**Basis points** | _Bips_ or _bps_ are equivalent to 0.01%. An decrease of 5 _bips_ from 3.05% of interest rates brings it to a new 3.00%.
+
 **Margin call** | A margin call is made when an investor's required minimum holdings in a margin account fall below a threshold. In margin investments, an investor borrows money to magnify his profits. But when the prices of his investments fall, the broker (borrower) can make a margin call without consulting the investor to sell the investment to bring the account back up to the minumum requirement.
 
 ## Capital markets
@@ -56,6 +58,10 @@ More information
 - Interest rate swaps: Two companies from two countries each need to take a loan in the other country. Banks however, charge high interest rates to foreign companies. The two companies can both take local loans and **swap** the interest rates with each other and enjoy local interest rates.
 
 ## Futures markets
+
+Futures contract obligates a buyer to buy or a seller to sell financial instrument on future date for a predetermined price. Parties enter futures contracts to hedge against market risks. A wheat farmer can enter a futures contract to sell wheat at a fixed price in case it falls in the future. A bakery on the other hand can enter a futures contract to buy wheat at a fixed price in case it rises in the future.
+
+Futures are different from forwards contracts in that futures contracts are more standardised, while forwards contracts can be privately negotiated. Forwards contracts do not trade on exchanges but on OTC, making it harder for investors to reach.
 
 ## Foreign exchange markets
 More information
