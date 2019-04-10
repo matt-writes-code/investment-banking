@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 const bnm = api =>
-  `https://uptime-diagnostics-response-bodies-production.s3.amazonaws.com/bd70-5dc9fa103d8c013792950242ac110003/e9b384ad2a174af89f3ac39ab9723741/5dca1e203d8c013792950242ac110003?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJA2FDAY6YZOURFLA%2F20190410%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190410T070129Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5832615bd06b19edaf6ee3c1a3197d2d8a4902176fc5fb3527ee554f0f68c539`;
+  `https://uptime-diagnostics-response-bodies-production.s3.amazonaws.com/d098-fa5968b03dbc0137a0e50242ac110004/cb937a6a37554486b930b85492b23938/fa598f303dbc0137a0e50242ac110004?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJA2FDAY6YZOURFLA%2F20190410%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190410T124925Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5925fdfe82b519b1266204846e94f36f0ecb9ad797767c214e72685fdbac8bad`;
 
 class BNMapi extends React.Component {
   constructor(props) {
