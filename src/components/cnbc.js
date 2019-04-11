@@ -16,7 +16,7 @@ const News = props => (
       <div className={style.none}>
         <b>{props.title}</b>
       </div>
-      <div>{props.description.substring(0, 180)}</div>
+      <div>{props.description}</div>
     </div>
   </a>
 );
