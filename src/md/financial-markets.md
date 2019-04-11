@@ -78,7 +78,7 @@ The spot market is where the value of the securities or commodities are traded i
 
 **TOD** | Payment and transaction will be executed on the **same day** of the order.
 
-**TOM** | Payment and transaction will be executed **1 day*** after the order. The rate quoted is today.
+**TOM** | Payment and transaction will be executed **1 day** after the order. The rate quoted is today.
 
 **Spot** | Payment and transaction will be executed **2 days** after the order. The rate quoted is today. Default method of transaction.
 
