@@ -27,3 +27,5 @@ path: "/organisations/"
 - Effective lending rate: The ELR is the interest rate that consumers pay for a loan. It takes into account the bank's base rate plus cost of funds. Banks are required to publish the ELR for the standard 30 year housing loan of MYR350 000. An interest rate of 1.5% and base rate of 4% will sum up to an ELR of 5.5%.
 
 **Financial Transaction Reports and Analysis Centre** Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) Indonesia's financial crime unit. Equivalent of Malaysia's Financial Intelligence and Enforcement Department (FIED) in Bank Negara. 
+
+**Securities and Exchange Board of India** | SEBI is the securities market regulator for India.
