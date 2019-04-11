@@ -33,6 +33,9 @@ path: "/organisations/"
 
 **Loan Market Association** | The LMA is a London based organisation that assist the development of the secondary market in Europe.
 
+## GCNA Region
+**State Administration for Market Regulation** | SAMR is responsible for the regulation of market competition, intellectual property, monopolies, and drug safety in China.
+
 ## ASA Region
 
 **Bank Negara Malaysia** | BNM is the regulator of all financial institutions in Malaysia. It gathers and published key financial statistics on its Open API.
