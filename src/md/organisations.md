@@ -4,6 +4,21 @@ path: "/organisations/"
 
 # Organisations
 
+## Global
+
+**G10 Currencies** | The G10 currencies are the most heavily traded currencies in the world. The high liquidity means there is little impact on the forex pairs. Some of the currencies are correlated with commodity prices because of the output of the country like Canada to oil, Australia to gold and copper. Central banks make decisions and control base interest rates based on the G10 currencies. The G10 participants are: 
+
+1. USD
+2. EURO
+3. UK's pound sterling
+4. Japanese yen
+5. Australian dollar
+6. New Zealand dollar
+7. Canadian dollar
+8. Swiss franc
+9. Norwegian krone
+10. Swedish krona
+
 **Gulf Cooperation Council** A political and economical between members of the Arab states of the Persian Guld except Iraq. Member states:
 1. Bahrain
 2. Kuwait
