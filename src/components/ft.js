@@ -41,9 +41,9 @@ class FT extends Component {
     if (!this.state.data) return <p>...</p>;
     return (
       <div>
-        <h3>CNBC</h3>
+        <h3>FT</h3>
         <div>
-          {this.state.data.articles.slice(0, 3).map(x => (
+          {this.state.data.articles.slice(0, 4).map(x => (
             <News
               image={x.urlToImage}
               title={x.title}
