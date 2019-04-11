@@ -43,7 +43,7 @@ class CNBC extends Component {
       <div>
         <h3>CNBC</h3>
         <div>
-          {this.state.data.articles.slice(0, 3).map(x => (
+          {this.state.data.articles.slice(0, 4).map(x => (
             <News
               image={x.urlToImage}
               title={x.title}
