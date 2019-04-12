@@ -91,6 +91,8 @@ Forex terminology can be confusing especially when it comes to forex quotes. In 
 - 1 USD is selling at MYR 4.2010
 - The currency pair is trading at 5 pips
 
+**Currency carry trade** | A currency carry trade is a strategy that uses currency from a country with low interest rates to buy a currency from a higher interest yielding country. The two country currencies are usually a stable pair like the AUD/JPU and NZD/JPY. This works similar to a shorting the market. For example, a trader can use JPY with 0% interest and convert them into AUD to buy bonds yielding 4%. This gives the trader 'free money' to invest with. A fall in the AUD or rise in JPY can cause huge losses.
+
 ## Spot markets
 The spot market is where the value of the securities or commodities are traded immediately. This is in contrast to the futures market where the trades values take place at a future date. Spot markets can also cater to goods sold immediately but ownership is transacted at a later date like crude oil. A company may buy crude oil at the current price but only have the oil delivered in the following month.
 
