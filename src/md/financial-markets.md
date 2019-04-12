@@ -75,7 +75,21 @@ Futures contract obligates a buyer to buy or a seller to sell financial instrume
 Futures are different from forwards contracts in that futures contracts are more standardised, while forwards contracts can be privately negotiated. Forwards contracts do not trade on exchanges but on OTC, making it harder for investors to reach.
 
 ## Foreign exchange markets
-More information
+Forex terminology can be confusing especially when it comes to forex quotes. In forex quotes, the buy and sell is from the forex broker's perspective.
+
+**Bid** | The max price the forex broker is willing to **buy**. You are selling your currency.
+
+**Ask** | The min price the forex broker is willing to **sell**. You are purchasing the currency.
+
+**Pips** | The smallest unit of a currency - the last two digits. This is also the spread between the bid and ask price.
+
+> USD/MYR = 4.2005/10
+
+- USD is the **base currency**
+- MYR is the **quote currency** 
+- 1 USD is buying at MYR 4.2005
+- 1 USD is selling at MYR 4.2010
+- The currency pair is trading at 5 pips
 
 ## Spot markets
 The spot market is where the value of the securities or commodities are traded immediately. This is in contrast to the futures market where the trades values take place at a future date. Spot markets can also cater to goods sold immediately but ownership is transacted at a later date like crude oil. A company may buy crude oil at the current price but only have the oil delivered in the following month.
