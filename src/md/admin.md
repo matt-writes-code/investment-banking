@@ -11,8 +11,14 @@ MOCHTAR, KARUWIN & KOMAR (MKK) - law firm and SHEARMAN+STERLING LLP (SS)
 
 ## Folder paths
 
-Team leave: Y:\Trade Surveillance\Communications Surveillance\CS Leave & Task Roster
+### Admin
+- Team leave: Y:\Trade Surveillance\Communications Surveillance\CS Leave & Task Roster
 
-HR file: \\sgmbffil001\DAT4\Wkgrps\Trade Surveillance\Autonomy\Users\HR_File
+### Phone
+- Y:\Trade Surveillance\AudioFinder\Users\DRM List
+- Y:\Trade Surveillance\Telephone Monitoring\GBS
+- Chat retrieval: \\sgmbffil001\DAT4\Wkgrps\Trade Surveillance\Communications Surveillance\Chat Retrieval
 
-Chat retrieval: \\sgmbffil001\DAT4\Wkgrps\Trade Surveillance\Communications Surveillance\Chat Retrieval
+### Others
+- HR file: \\sgmbffil001\DAT4\Wkgrps\Trade Surveillance\Autonomy\Users\HR_File
+
