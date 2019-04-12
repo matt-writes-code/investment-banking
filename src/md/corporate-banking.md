@@ -7,6 +7,10 @@ Quick notes and references.
 
 **Sweep accounts** | Sweep accounts are accounts clients can use to maximise returns of interest on unused cash while maintaining working capital. At the end of each business day, extra funds from the other accounts are _swept_ into the sweep account to generate interest, typically in money markets. At the open of the next business day, the funds are moved back for business. Banks charge a fixed fee or take a percentage as commission.
 
-**Outstanding shares** | Outstanding shares is the total number of shares held by all its investors, including restricted shares.
+**Authorised shares** | Authorised shares is the total number of shares a company is allowed to issue.
 
-**Price-to-Research Ratio** | PRR is calculated by taking the Market Capitalisation divided by the Research & Development Exposure.
+**Outstanding shares** | Outstanding shares is the total number of shares held by all its investors, including restricted shares. Authorised shares are always less than authorised shares.
+
+**Market capitalisation** | Market capitalisation is the total number of outstanding shares multiplied by the current share price. Market capitalisation is an indication of the company's size - an alternative to using revenue and assets.
+
+**Price-to-Research Ratio** | PRR is calculated by taking the Market Capitalisation divided by the Research & Development Exposure in the past 12 months. The PPR is often used in reserach intensive industries like technology, pharmaceutical, and agriculture.
