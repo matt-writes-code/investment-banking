@@ -15,8 +15,10 @@ const Navigation = props => {
                     <Nav className="mr-auto">
                         <Nav.Link><Goto to="/financial-markets/">Financial Markets</Goto></Nav.Link>
                         <Nav.Link><Goto to="/corporate-banking/">Corporate Banking</Goto></Nav.Link>
-                        <Nav.Link><Goto to="/regulations/">Regulations</Goto></Nav.Link>
                         <Nav.Link><Goto to="/organisations/">Organisations</Goto></Nav.Link>
+                        <Nav.Link><Goto to="/regulations/">Regulations</Goto></Nav.Link>
+                        <Nav.Link><Goto to="/market-abuse/">Market Abuse</Goto></Nav.Link>
+
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
