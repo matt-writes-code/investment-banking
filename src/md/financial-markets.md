@@ -64,6 +64,10 @@ Types of commodities:
 
 - Interest rate swaps: Two companies from two countries each need to take a loan in the other country. Banks however, charge high interest rates to foreign companies. The two companies can both take local loans and **swap** the interest rates with each other and enjoy local interest rates.
 
+**Credit linked note*** | A CLN is a security with an embeded credit default swap. Risks of the security are shifted from the buyer of the CLN to other investors for an on-going premium.
+
+**Credit default swap** | A CDS acts like an insurance for a financial instrument. If an investor is afraid that a loan he gave out  might default, he can buy a CDS to shift the risk to other parties. If the loan defaults and the investor fails to get his capital back, the CDS issuer repays the investor his losses. The party that takes on the risk will charge an on-going premium.
+
 ## Futures markets
 
 Futures contract obligates a buyer to buy or a seller to sell financial instrument on future date for a predetermined price. Parties enter futures contracts to hedge against market risks. A wheat farmer can enter a futures contract to sell wheat at a fixed price in case it falls in the future. A bakery on the other hand can enter a futures contract to buy wheat at a fixed price in case it rises in the future.
