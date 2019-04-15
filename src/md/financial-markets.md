@@ -35,6 +35,12 @@ Factors that impact an ETF's performance are:
 - Basket make-up: ETFs can consist of investments that are concentrated or diversified in a specific industry. Concentrated baskets can be more sensitive to changes in the industry.
 - Liquidity: A larger difference in the bid and ask price can indicate low liquidity in an ETF.
 
+**S&P 500** | The S&P the indication of the US equities market which includes [500](https://markets.businessinsider.com/index/components/s&p_500) of the top companies that captures 80% of the available market capitalisation.
+
+> SP500 Index = Market capitalisation of all SP500 stocks / [Index Divisor](https://ycharts.com/indicators/sandp_500_divisor)
+
+Market capitalisation is the total number of shares held by shareholders (outstanding shares) x current share price.
+
 ## Money markets
 **Repurchase agreements** | _Repos_ are short-term debt that issuers, like government institutions, sell in the form of Treasury Bills (T-bills) to raise money. The securities are repurchased from the investor the next day or the following week with interest. Repos are low-risk because of the duration of the loan. _Repos_ are from the sellers perspective - the party that needs the funds.
 
