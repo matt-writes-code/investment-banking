@@ -13,7 +13,7 @@ Financial markets refer to markets where players can trade securities. Trades ca
 
 **Basis points** | _Bips_ or _bps_ are equivalent to 0.01%. An decrease of 5 _bips_ from 3.05% of interest rates brings it to a new 3.00%.
 
-**Trade date** | The date the order is executed.
+**Trade date** | The date the order is executed. The price of the security is valued on the trade date but paid on the settlement date. For example, an investor decides to buy company ABC's shares priced at USD7 today, on T+2, he pays the seller that price even if the share price increases 2 days later.
 
 **Settlement date** | The date the buyer must pay the seller. The security bought is transferred from the seller to the buyer. This date marks the legal ownership of the new owner.
 
@@ -29,7 +29,6 @@ Financial markets refer to markets where players can trade securities. Trades ca
 
 **Margin call** | A margin call is made when an investor's required minimum holdings in a margin account fall below a threshold. In margin investments, an investor borrows money to magnify his profits. But when the prices of his investments fall, the broker (borrower) can make a margin call without consulting the investor to sell the investment to bring the account back up to the minumum requirement.
 
-
 ## Capital markets
 
 Capital markets are markets that connect investor funds and institutions that need them. Investors enter capital markets with the intention of growing money they own, whereas institutions borrow funds for business expansion and day-to-day operations. Capital markets are divided in to two markets. 
@@ -41,6 +40,10 @@ Capital markets are markets that connect investor funds and institutions that ne
 - Equity security: Ownership of a company in the form of stocks.
 - Debt security: Representation of money that is borrowed and must be repaid. Examples are bonds, certificate of deposits, collatarised securities.
 - Hybrid security: A combination of equity and debt securities. Examples are equity warrants, convertible bonds, and preferrence shares.
+
+**Current yield** | The current yield of the bond is the returns a bond gives against its current price. The current yield can be used to compare its returns with other bonds. The higher the current yield, the better the returns.
+
+> Current interest = Annual interest / Current price
 
 **Perpetual bond** | A perpetual bond is a bond that pays interest forever. With no maturity date, perpetual bonds do not allow investors to withdraw its principal. Governments and corporations may be the only participants in this deal.
 
@@ -65,6 +68,7 @@ Market capitalisation is the total number of shares held by shareholders (outsta
 **Spiders** | Standard & Poor's depository receipts (SPDR) or _Spiders_ are ETFs that tracks the S&P500's performance. Each share trades at approximately 10% of the S&P's dollar value.
 
 ## Money markets
+
 **Repurchase agreements** | _Repos_ are short-term debt that issuers, like government institutions, sell in the form of Treasury Bills (T-bills) to raise money. The securities are repurchased from the investor the next day or the following week with interest. Repos are low-risk because of the duration of the loan. _Repos_ are from the sellers perspective - the party that needs the funds.
 
 **Reverse repo** | Reverse repos are issued from the buyer's perspective. The buying bank may have excess cash that it wants to monetize in a short period of time. The buying bank purchases the stock of the seller (borrower) as a collaterised overnight loan. In the event the seller defaults (unable to pay back), the buying bank is liquidated to cover the buying bank's losses. 
