@@ -14,3 +14,5 @@ Quick notes and references.
 **Market capitalisation** | Market capitalisation is the total number of outstanding shares multiplied by the current share price. Market capitalisation is an indication of the company's size - an alternative to using revenue and assets.
 
 **Price-to-Research Ratio** | PRR is calculated by taking the Market Capitalisation divided by the Research & Development Exposure in the past 12 months. The PPR is often used in reserach intensive industries like technology, pharmaceutical, and agriculture.
+
+**Standy Letters of Credit** | An SBCL is a guarantee made on behalf of the bank for a client to ensure payment in the event the client cannot fulfill a payment. SBLCs are often used in trade to hedge against bankruptcy but are never meant to be used.
