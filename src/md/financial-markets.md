@@ -13,13 +13,22 @@ Financial markets refer to markets where players can trade securities. Trades ca
 
 **Basis points** | _Bips_ or _bps_ are equivalent to 0.01%. An decrease of 5 _bips_ from 3.05% of interest rates brings it to a new 3.00%.
 
-**Margin call** | A margin call is made when an investor's required minimum holdings in a margin account fall below a threshold. In margin investments, an investor borrows money to magnify his profits. But when the prices of his investments fall, the broker (borrower) can make a margin call without consulting the investor to sell the investment to bring the account back up to the minumum requirement.
+**Trade date** | The date the order is executed.
+
+**Settlement date** | The date the buyer must pay the seller. The security bought is transferred from the seller to the buyer. This date marks the legal ownership of the new owner.
+
+- T+1: If the trade date is on Monday, the settlement date is on Tuesday.
+- T+2: If the trade date is on Monday, the settlement date is on Wednesday.
+- T+3: If the trade date is on Thursday and Friday is a public holiday, the settlement date is on the following Wednesday.
 
 **Market order** | A market order is an instruction an investor gives a broker to buy or sell a security at the best possible price. The investor trusts the broker to act in his best interest. This order is best used in high volatility markets.
 
 **Limit order** | A limit order is an instruction an investor gives a broker to buy or sell a security at a target price. Investors may have a goal in mind. They also have control over the price execution.
 
 **Stop order** | Stop orders are similar to limit orders, with the added sentiment of avoiding losses. It works for both buy and sell. A stop order to buy is placed if prices continue rising above a certain threshold. A stop order to sell is placed if prices fall below a certain level to avoid losses.
+
+**Margin call** | A margin call is made when an investor's required minimum holdings in a margin account fall below a threshold. In margin investments, an investor borrows money to magnify his profits. But when the prices of his investments fall, the broker (borrower) can make a margin call without consulting the investor to sell the investment to bring the account back up to the minumum requirement.
+
 
 ## Capital markets
 
