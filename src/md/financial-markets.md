@@ -15,6 +15,12 @@ Financial markets refer to markets where players can trade securities. Trades ca
 
 **Margin call** | A margin call is made when an investor's required minimum holdings in a margin account fall below a threshold. In margin investments, an investor borrows money to magnify his profits. But when the prices of his investments fall, the broker (borrower) can make a margin call without consulting the investor to sell the investment to bring the account back up to the minumum requirement.
 
+**Market order** | A market order is an instruction an investor gives a broker to buy or sell a security at the best possible price. The investor trusts the broker to act in his best interest. This order is best used in high volatility markets.
+
+**Limit order** | A limit order is an instruction an investor gives a broker to buy or sell a security at a target price. Investors may have a goal in mind. They also have control over the price execution.
+
+**Stop order** | Stop orders are similar to limit orders, with the added sentiment of avoiding losses. It works for both buy and sell. A stop order to buy is placed if prices continue rising above a certain threshold. A stop order to sell is placed if prices fall below a certain level to avoid losses.
+
 ## Capital markets
 
 Capital markets are markets that connect investor funds and institutions that need them. Investors enter capital markets with the intention of growing money they own, whereas institutions borrow funds for business expansion and day-to-day operations. Capital markets are divided in to two markets. 
@@ -40,6 +46,8 @@ Factors that impact an ETF's performance are:
 > SP500 Index = Market capitalisation of all SP500 stocks / [Index Divisor](https://ycharts.com/indicators/sandp_500_divisor)
 
 Market capitalisation is the total number of shares held by shareholders (outstanding shares) x current share price.
+
+**Spiders** | Standard & Poor's depository receipts (SPDR) or _Spiders_ are ETFs that tracks the S&P500's performance. Each share trades at approximately 10% of the S&P's dollar value.
 
 ## Money markets
 **Repurchase agreements** | _Repos_ are short-term debt that issuers, like government institutions, sell in the form of Treasury Bills (T-bills) to raise money. The securities are repurchased from the investor the next day or the following week with interest. Repos are low-risk because of the duration of the loan. _Repos_ are from the sellers perspective - the party that needs the funds.
