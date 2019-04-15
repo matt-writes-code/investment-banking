@@ -33,6 +33,12 @@ Capital markets are markets that connect investor funds and institutions that ne
 - Debt security: Representation of money that is borrowed and must be repaid. Examples are bonds, certificate of deposits, collatarised securities.
 - Hybrid security: A combination of equity and debt securities. Examples are equity warrants, convertible bonds, and preferrence shares.
 
+**Perpetual bond** | A perpetual bond is a bond that pays interest forever. With no maturity date, perpetual bonds do not allow investors to withdraw its principal. Governments and corporations may be the only participants in this deal.
+
+**Callable bond** | Issuers of callable bonds reserve the right to return investors the bond principals and stop interest payments for the remaining years. Issuers like governments use callable bonds to maintain flexibility in case interest rates drop in the future.
+
+**PNC5** | PNC5 is OCBC's perpetial non-callable 5 basis, which is a callable bond at every 6 mopnths. 
+
 **Exchange Traded Funds** | _ETFs_ are designed to track the performance of a security they are designed for. An ETF tracking the oil industry for example, will have oil company stocks and oil commodities in its basket. ETFs are usually sold as unit trusts, allowing retail investors to gain exposure to whole industries by purchasing a portion of the ETF.
 
 Factors that impact an ETF's performance are:
