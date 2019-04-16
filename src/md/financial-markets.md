@@ -97,7 +97,9 @@ Types of commodities:
 
 - Interest rate swaps: Two companies from two countries each need to take a loan in the other country. Banks however, charge high interest rates to foreign companies. The two companies can both take local loans and **swap** the interest rates with each other and enjoy local interest rates.
 
-**Credit linked note*** | A CLN is a security with an embeded credit default swap. Risks of the security are shifted from the buyer of the CLN to other investors for an on-going premium.
+**Equity linked note** | An ELNs are fixed income securities with added potential returns. The most common version combines bonds and call options. This provides investors with the security of not losing money but locks their money in at opportunity cost.
+
+**Credit linked note** | A CLN is a security with an embeded credit default swap. Risks of the security are shifted from the buyer of the CLN to other investors for an on-going premium.
 
 **Credit default swap** | A CDS acts like an insurance for a financial instrument. If an investor is afraid that a loan he gave out  might default, he can buy a CDS to shift the risk to other parties. If the loan defaults and the investor fails to get his capital back, the CDS issuer repays the investor his losses. The party that takes on the risk will charge an on-going premium.
 
@@ -151,3 +153,5 @@ The spot market is where the value of the securities or commodities are traded i
 **Haircut** | A haircut has two definitions with respect to market makers and loans.
 - Market makers: A haircut is the small difference between the buy and sell price of a securities in a stagnant market. An investor may buy a stock for $10 and sell them for $10.05 to make a small profit of 5 cents per stock - the haircut.
 - Loans: Securities used as a collatoral for a debt may be devalued slightly to provide a cushion for the lender in case the price of the stocks fall. The devaluation is called the haircut. An investment bank may devalue a borrower's share price used as collateral from $100 to $80.
+
+**Collateralised Debt Obligation** | CDOs are packaged debts that an investment banks distribute to investors. CDOs are then divided into tranches. Senior tranches are low risk and have the first claim if loans default. Junior tranches have high returns but have the last claim. 
