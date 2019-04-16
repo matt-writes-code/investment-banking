@@ -45,6 +45,8 @@ Capital markets are markets that connect investor funds and institutions that ne
 
 > Current interest = Annual interest / Current price
 
+**Junk bonds** | Junk bonds are poorly rated and are issued by companies that are at risk of default in return for higher interest rates. Investors buy junk bonds to increase their overall returns which are otherwise difficult to achieve.
+
 **Perpetual bond** | A perpetual bond is a bond that pays interest forever. With no maturity date, perpetual bonds do not allow investors to withdraw its principal. Governments and corporations may be the only participants in this deal.
 
 **Callable bond** | Issuers of callable bonds reserve the right to return investors the bond principals and stop interest payments for the remaining years. Issuers like governments use callable bonds to maintain flexibility in case interest rates drop in the future.
@@ -157,3 +159,5 @@ The spot market is where the value of the securities or commodities are traded i
 **Collateralised Debt Obligation** | CDOs are packaged debts that an investment banks distribute to investors. CDOs are then divided into tranches. Senior tranches are low risk and have the first claim if loans default. Junior tranches have high returns but have the last claim.
 
 **Fund Transfer Pricing** | FTP is a system used to assess the overall company's profitability with every additional funding.
+
+**Underwriting** | The process whereby an investor or institution takes on a financial risk for a fee. Underwriting can be done for insurance, loans, and securities.
