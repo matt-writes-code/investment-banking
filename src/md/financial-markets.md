@@ -51,6 +51,8 @@ Capital markets are markets that connect investor funds and institutions that ne
 
 **Callable bond** | Issuers of callable bonds reserve the right to return investors the bond principals and stop interest payments for the remaining years. Issuers like governments use callable bonds to maintain flexibility in case interest rates drop in the future.
 
+**Formosa bonds** | Bonds that are issued by Taiwan but denominated in a foreign currency. 
+
 **PNC5** | PNC5 is OCBC's perpetial non-callable 5 basis, which is a callable bond at every 6 mopnths. 
 
 **Exchange Traded Funds** | _ETFs_ are designed to track the performance of a security they are designed for. An ETF tracking the oil industry for example, will have oil company stocks and oil commodities in its basket. ETFs are usually sold as unit trusts, allowing retail investors to gain exposure to whole industries by purchasing a portion of the ETF.
