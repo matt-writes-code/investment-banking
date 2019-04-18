@@ -4,7 +4,7 @@ import style from "./newsapi.module.css";
 const apikey = "7aeb97081f4140d6a65697a01b4c8d95";
 
 const news = items =>
-  `https://newsapi.org/v2/top-headlines?sources=financial-times&apiKey=${apikey}
+  `https://newsapi.org/v2/top-headlines?sources=business-insider&apiKey=${apikey}
 `;
 
 const News = props => (
@@ -21,7 +21,7 @@ const News = props => (
   </a>
 );
 
-class FT extends Component {
+class BI extends Component {
   constructor(props) {
     super(props);
     this.state = {};
@@ -57,4 +57,4 @@ class FT extends Component {
   }
 }
 
-export default FT;
+export default BI;
