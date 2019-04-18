@@ -41,7 +41,7 @@ class BI extends Component {
     if (!this.state.data) return <p>...</p>;
     return (
       <div>
-        <h3>FT</h3>
+        <h3>BI</h3>
         <div>
           {this.state.data.articles.slice(0, 4).map(x => (
             <News
