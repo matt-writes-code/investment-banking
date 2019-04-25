@@ -99,7 +99,9 @@ Types of commodities:
 
 **Swaps** | A swap allows two parties to exchange financial instruments to align themselves with their respective interests. Interest rates, cashflows, commodities, and debt can be swapped.
 
-- Interest rate swaps: Two companies from two countries each need to take a loan in the other country. Banks however, charge high interest rates to foreign companies. The two companies can both take local loans and **swap** the interest rates with each other and enjoy local interest rates.
+**Interest rate swaps** | Two companies from two countries each need to take a loan in the other country. Banks however, charge high interest rates to foreign companies. The two companies can both take local loans and **swap** the interest rates with each other and enjoy local interest rates.
+
+**Total Return Swap** | A TRS is a swap agreement that transfers market and credits risks between two parties. The first party, the payer owns an underlying asset and pays the appreciation and coupons to the receiver. In return, the receiver pays the payer a set fee, usually tied to the LIBOR. This allows the receiver to take a long position - receiving capital gains and coupons without owning the asset. Hedge funds usually enter TRS as the receiver.
 
 **Equity linked note** | An ELNs are fixed income securities with added potential returns. The most common version combines bonds and call options. This provides investors with the security of not losing money but locks their money in at opportunity cost.
 
