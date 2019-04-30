@@ -16,7 +16,6 @@ MOCHTAR, KARUWIN & KOMAR (MKK) - law firm and SHEARMAN+STERLING LLP (SS)
 
 ### Phone
 - Y:\Trade Surveillance\AudioFinder\Users\DRM List
-- Y:\Trade Surveillance\Telephone Monitoring\GBS
 - Chat retrieval: \\sgmbffil001\DAT4\Wkgrps\Trade Surveillance\Communications Surveillance\Chat Retrieval
 
 ### Others
