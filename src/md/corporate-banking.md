@@ -9,6 +9,10 @@ Quick notes and references.
 
 **Synthetic instruments** | Synthetic instruments simulate other financial instruments while meeting requirements that others don't. They can be structured to reduce risk or increase returns.
 
+**Collateralised Debt Obligation** | CDOs are packaged debts that an investment banks distribute to investors. CDOs are then divided into tranches. Senior tranches are low risk and have the first claim if loans default. Junior tranches have high returns but have the last claim.
+
+**Collateralised Bond Obligation** | CBOs are a package of high-grade bonds and junk bonds mixed together. The package is split into tranches similar to CDOs. Overcollateralisation allow junk bonds to be graded because they are backed by higher grade bonds.
+
 **Sweep accounts** | Sweep accounts are accounts clients can use to maximise returns of interest on unused cash while maintaining working capital. At the end of each business day, extra funds from the other accounts are _swept_ into the sweep account to generate interest, typically in money markets. At the open of the next business day, the funds are moved back for business. Banks charge a fixed fee or take a percentage as commission.
 
 **Authorised shares** | Authorised shares is the total number of shares a company is allowed to issue.
