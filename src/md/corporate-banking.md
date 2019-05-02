@@ -5,6 +5,10 @@ path: "/corporate-banking/"
 # Corporate Banking
 Quick notes and references.
 
+**Structured Finance** | Structured finance are complex financial services that are usually offered to large institutions that require non-conventional instruments. Collateralised debt obligations, synthetic financial instruments, syndicated loans, and collateralised bond obligations are among some of the components used in structured financing.
+
+**Synthetic instruments** | Synthetic instruments simulate other financial instruments while meeting requirements that others don't. They can be structured to reduce risk or increase returns.
+
 **Sweep accounts** | Sweep accounts are accounts clients can use to maximise returns of interest on unused cash while maintaining working capital. At the end of each business day, extra funds from the other accounts are _swept_ into the sweep account to generate interest, typically in money markets. At the open of the next business day, the funds are moved back for business. Banks charge a fixed fee or take a percentage as commission.
 
 **Authorised shares** | Authorised shares is the total number of shares a company is allowed to issue.
