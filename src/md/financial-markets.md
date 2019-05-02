@@ -160,8 +160,6 @@ The spot market is where the value of the securities or commodities are traded i
 - Market makers: A haircut is the small difference between the buy and sell price of a securities in a stagnant market. An investor may buy a stock for $10 and sell them for $10.05 to make a small profit of 5 cents per stock - the haircut.
 - Loans: Securities used as a collatoral for a debt may be devalued slightly to provide a cushion for the lender in case the price of the stocks fall. The devaluation is called the haircut. An investment bank may devalue a borrower's share price used as collateral from $100 to $80.
 
-**Collateralised Debt Obligation** | CDOs are packaged debts that an investment banks distribute to investors. CDOs are then divided into tranches. Senior tranches are low risk and have the first claim if loans default. Junior tranches have high returns but have the last claim.
-
 **Fund Transfer Pricing** | FTP is a system used to assess the overall company's profitability with every additional funding.
 
 **Underwriting** | The process whereby an investor or institution takes on a financial risk for a fee. Underwriting can be done for insurance, loans, and securities.
