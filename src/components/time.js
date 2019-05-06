@@ -26,10 +26,8 @@ export default class Clock extends React.Component {
 
   render() {
     return (
-      <div className="count-one">
-        <h1>Time</h1>
-        <p>State and Lifecycle</p>
-        <p>The time is now {this.state.date.toLocaleTimeString()}.</p>
+      <div>
+        <p>{this.state.date.toLocaleTimeString()}</p>
       </div>
     );
   }
