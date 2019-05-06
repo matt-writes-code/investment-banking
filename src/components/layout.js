@@ -11,6 +11,7 @@ import { StaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import Navigation from './navigation'
+import Time from './time'
 import "./layout.css"
 
 const Layout = ({ children }) => (
@@ -35,6 +36,13 @@ const Layout = ({ children }) => (
             padding: `10px 1.0875rem 1.45rem`,
           }}
         >
+  <div style={{
+  display:`flex`,
+  flexDirection:`row`,
+  justifyContent:`flex-end`
+  }}>
+  <Time/>
+  </div>
           <main>{children}</main>
         </div>
       </>
