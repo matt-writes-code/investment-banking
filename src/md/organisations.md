@@ -30,3 +30,7 @@ path: "/organisations/"
 **International Swaps and Derivatives Association** | ISDA is a standardised master agreement between parties that enter into OTC derivatives, typically between a dealer and a counterparty.
 
 **Loan Market Association** | The LMA is a London based organisation that assist the development of the secondary market in Europe.
+
+## Geopolitics
+
+**Hong Kong Special Administration Region** | The HKSAR is the term used to recognise Hong Kong as a region under China's rule. Hong Kong exists as an autonomous state that is governed as 'One Country, Two Systems'. The state has its own legislative system, government, and immigration authority. The highest head of state is the Chief Executive, usually selected and influenced by mainland China. The only other SAR of China is Macau.
