@@ -29,7 +29,7 @@ Financial markets refer to markets where players can trade securities. Trades ca
 
 **Margin call** | A margin call is made when an investor's required minimum holdings in a margin account fall below a threshold. In margin investments, an investor borrows money to magnify his profits. But when the prices of his investments fall, the broker (borrower) can make a margin call without consulting the investor to sell the investment to bring the account back up to the minumum requirement.
 
-**Arbitrage** | Arbitrage is a trading strategy that seeks to profits from small differences in asset prices. The difference in price are the result of market inefficiencies. The two types of arbitrage are pure and risk arbitrage. Bots are often automated to execute _pure arbitrage_ opportunities. _Risk arbitrage_ takes advantage of speculative prices, often in the case of mergers and acquisitions.
+**Arbitrage** | Arbitrage is a trading strategy that seeks to profit from temporary small differences in asset prices. The difference in price is the result of market inefficiencies. The two types of arbitrage are pure and risk arbitrage. _Pure arbitrage_ are often executed by bots that look out for similar assets in different markets. _Risk arbitrage_ takes advantage of speculative prices, often in the case of mergers and acquisitions.
 
 ## Capital markets
 
