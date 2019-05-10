@@ -21,7 +21,7 @@ const News = props => (
   </a>
 );
 
-class GoogleNews extends Component {
+class GNews extends Component {
   constructor(props) {
     super(props);
     this.state = {};
@@ -41,7 +41,7 @@ class GoogleNews extends Component {
     if (!this.state.data) return <p>...</p>;
     return (
       <div>
-        <h3>BBC</h3>
+        <h3>Google News</h3>
         <div>
           {this.state.data.articles.slice(0, 4).map(x => (
             <News
@@ -57,4 +57,4 @@ class GoogleNews extends Component {
   }
 }
 
-export default GoogleNews;
+export default GNews;
