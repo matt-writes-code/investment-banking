@@ -28,3 +28,5 @@ Quick notes and references.
 **Standy Letters of Credit** | An SBCL is a guarantee made on behalf of the bank for a client to ensure payment in the event the client cannot fulfill a payment. SBLCs are often used in trade to hedge against bankruptcy but are never meant to be used.
 
 **EBITDA** | Earnings Before Interest, Taxes, Depreciation and Amortization is a measure of a company's operating performance. It indicates a company's financial performance without factoring taxes, interest, and depreciation factors. It is used as an alternative indicator to net income.
+
+**Loan-To-Value** | LTV is the ratio of loan amount to the value of asset. It indicates the risk of the loan against the asset it is financing. Lower LTVs have lower risk. One factor that affects the LTV is the asset price. Borrowers may set a maximum LTV or impose higher interest rates on higher LTVs to minimise their risks.
