@@ -4,7 +4,7 @@ import style from "./newsapi.module.css";
 const apikey = "7aeb97081f4140d6a65697a01b4c8d95";
 
 const news = items =>
-  `https://newsapi.org/v2/top-headlines?sources=cnbc&apiKey=${apikey}
+  `https://newsapi.org/v2/top-headlines?sources=bbc&apiKey=${apikey}
 `;
 
 const News = props => (
@@ -21,7 +21,7 @@ const News = props => (
   </a>
 );
 
-class CNBC extends Component {
+class BBC extends Component {
   constructor(props) {
     super(props);
     this.state = {};
@@ -41,7 +41,7 @@ class CNBC extends Component {
     if (!this.state.data) return <p>...</p>;
     return (
       <div>
-        <h3>CNBC</h3>
+        <h3>BBC</h3>
         <div>
           {this.state.data.articles.slice(0, 4).map(x => (
             <News
@@ -57,4 +57,4 @@ class CNBC extends Component {
   }
 }
 
-export default CNBC;
+export default BBC;
