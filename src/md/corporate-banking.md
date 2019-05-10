@@ -30,3 +30,5 @@ Quick notes and references.
 **EBITDA** | Earnings Before Interest, Taxes, Depreciation and Amortization is a measure of a company's operating performance. It indicates a company's financial performance without factoring taxes, interest, and depreciation factors. It is used as an alternative indicator to net income.
 
 **Loan-To-Value** | LTV is the ratio of loan amount to the value of asset. It indicates the risk of the loan against the asset it is financing. Lower LTVs have lower risk. One factor that affects the LTV is the asset price. Borrowers may set a maximum LTV or impose higher interest rates on higher LTVs to minimise their risks.
+
+**Offshore Account** | Offshore accounts are services provided by financial institutions to corporations that intend to keep its finances outside its operating country. Corporations may want to do this in favour of political stability, to avoid local taxes, avoid its accounts from being frozen, improve cash flow, and maintaining confidentiality of the account holders. Offshore accounts are legitimate but can be abused by money laundering, terrorism financing, and tax evasion.
