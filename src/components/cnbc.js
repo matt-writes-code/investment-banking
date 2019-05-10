@@ -4,7 +4,7 @@ import style from "./newsapi.module.css";
 const apikey = "7aeb97081f4140d6a65697a01b4c8d95";
 
 const news = items =>
-  `https://newsapi.org/v2/top-headlines?sources=bbc&apiKey=${apikey}
+  `https://newsapi.org/v2/top-headlines?sources=google-news&apiKey=${apikey}
 `;
 
 const News = props => (
@@ -21,7 +21,7 @@ const News = props => (
   </a>
 );
 
-class BBC extends Component {
+class GoogleNews extends Component {
   constructor(props) {
     super(props);
     this.state = {};
@@ -57,4 +57,4 @@ class BBC extends Component {
   }
 }
 
-export default BBC;
+export default GoogleNews;
