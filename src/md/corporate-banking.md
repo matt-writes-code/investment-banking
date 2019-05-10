@@ -25,7 +25,7 @@ Quick notes and references.
 
 **Price-to-Research Ratio** | PRR is calculated by taking the Market Capitalisation divided by the Research & Development Exposure in the past 12 months. The PPR is often used in reserach intensive industries like technology, pharmaceutical, and agriculture.
 
-**Standy Letters of Credit** | An SBCL is a guarantee made on behalf of the bank for a client to ensure payment in the event the client cannot fulfill a payment. SBLCs are often used in trade to hedge against bankruptcy but are never meant to be used.
+**Standy Letters of Credit** | An SBLC is a guarantee made on behalf of the bank for a client to ensure payment in the event the client cannot fulfill a payment. SBLCs are often used in trade to hedge against bankruptcy but are never meant to be used.
 
 **EBITDA** | Earnings Before Interest, Taxes, Depreciation and Amortization is a measure of a company's operating performance. It indicates a company's financial performance without factoring taxes, interest, and depreciation factors. It is used as an alternative indicator to net income.
 
