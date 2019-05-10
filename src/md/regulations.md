@@ -26,6 +26,8 @@ path: "/regulations"
 
 **MiFID II** | Calls for transparent pricing, reporting of market abuse, trade transparency, regulated use of electronic circuit breakers.
 
+**Basel III** | Basel III is a banking regulatory outline for international banks that resulted after the 2008 financial crisis. The regulation targets minimum capital requirements, supervisory review and market discipline. One of the goals is to ensure banks can withstand financial shock.
+
 **Dodd-Frank Act** | The Dodd-Frank Act was introduced after the 2008 financial crisis to provide regulatory oversight, consumer protection, and to manage systemic risk in the financial system. The act prevents banks from gambling with consumers' money, monitors risky derivatives, and provides oversight to credit rating agencies.
 
 **Volcker Rule** The rule states that commercial banks cannot use customers' money to invest in high-risk markets or engage in prop trading. The rule is part of the Dodd-Frank Act and was proposed after the 2008 financial crisis.
