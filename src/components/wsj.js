@@ -43,7 +43,7 @@ class WSJ extends Component {
       <div>
         <h3>WSJ</h3>
         <div>
-          {this.state.data.articles.slice(0, 4).map(x => (
+          {this.state.data.articles.slice(0, 6).map(x => (
             <News
               image={x.urlToImage}
               title={x.title}
