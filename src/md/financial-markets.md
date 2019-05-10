@@ -55,6 +55,12 @@ Capital markets are markets that connect investor funds and institutions that ne
 
 **Formosa bonds** | Bonds that are issued by Taiwan but denominated in a foreign currency. 
 
+**Dirty price** | The price of a bond that includes the accrued interest. Markets trade bonds at both dirty prices (European markets) and clean prices (US markets).
+
+**Clean price** | The price of the bond without its coupon payments. On the day the coupon is matured, the clean and dirty price of a bond will be the same.
+
+**Accrued interest** | Accrued interest (bonds) is the price of the bond plus the coupons that have matured. Accrued interest (accounting) in corporate finances is the income earned even before it has received it in cash.
+
 **PNC5** | PNC5 is OCBC's perpetial non-callable 5 basis, which is a callable bond at every 6 mopnths. 
 
 **Exchange Traded Funds** | _ETFs_ are designed to track the performance of a security they are designed for. An ETF tracking the oil industry for example, will have oil company stocks and oil commodities in its basket. ETFs are usually sold as unit trusts, allowing retail investors to gain exposure to whole industries by purchasing a portion of the ETF.
