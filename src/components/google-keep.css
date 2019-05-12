@@ -1,0 +1,19 @@
+.gk{
+    position:fixed;
+    bottom:20px;
+    right: 40px;
+    border-radius:100px;
+}
+
+.image{
+    height:70px;
+    width:70px;
+    box-shadow:1px 1px 5px black;
+    border-radius:100px;
+}
+
+.gk:hover{
+transition-duration:500ms;
+transform:rotate(720deg);
+}
+
