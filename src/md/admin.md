@@ -20,4 +20,5 @@ MOCHTAR, KARUWIN & KOMAR (MKK) - law firm and SHEARMAN+STERLING LLP (SS)
 
 ### Others
 - HR file: \\sgmbffil001\DAT4\Wkgrps\Trade Surveillance\Autonomy\Users\HR_File
+- Y:\Trade Surveillance\Communications Surveillance\CS Documents\Trading Floor Locations
 
