@@ -27,6 +27,8 @@ path: "/organisations/"
 
 **International Capital Market Association** | ICMA is a self-regulated organisation that focuses on European debt securities markets.
 
+**Global Master Repurchase Agreement** | GMCA is a principal master agreement published by the ICMA to facilitate cross-border repos globally. It also covers domestic repos.
+
 **International Swaps and Derivatives Association** | ISDA is a standardised master agreement between parties that enter into OTC derivatives, typically between a dealer and a counterparty.
 
 **Loan Market Association** | The LMA is a London based organisation that assist the development of the secondary market in Europe.
