@@ -32,3 +32,5 @@ Quick notes and references.
 **Loan-To-Value** | LTV is the ratio of loan amount to the value of asset. It indicates the risk of the loan against the asset it is financing. Lower LTVs have lower risk. One factor that affects the LTV is the asset price. Borrowers may set a maximum LTV or impose higher interest rates on higher LTVs to minimise their risks.
 
 **Offshore Account** | Offshore accounts are services provided by financial institutions to corporations that intend to keep its finances outside its operating country. Corporations may want to do this in favour of political stability, to avoid local taxes, avoid its accounts from being frozen, improve cash flow, and maintaining confidentiality of the account holders. Offshore accounts are legitimate but can be abused by money laundering, terrorism financing, and tax evasion.
+
+**Escrow Agreement** | An escrow agreement is a payments contract between two parties that involves a middle man, like an attorney, that is fulfilled only when all the terms of the contract are met. This works in favour of both parties where the depositor is ensured he will receives the good and the seller is ensured he will be paid.
