@@ -31,6 +31,12 @@ Financial markets refer to markets where players can trade securities. Trades ca
 
 **Arbitrage** | Arbitrage is a trading strategy that seeks to profit from temporary small differences in asset prices. The difference in price is the result of market inefficiencies. The two types of arbitrage are pure and risk arbitrage. _Pure arbitrage_ are often executed by bots that look out for similar assets in different markets. _Risk arbitrage_ takes advantage of speculative prices, often in the case of mergers and acquisitions.
 
+**Arbitrage funds** | Arbitrage funds are mutual funds that use arbitrage to exploit small differences between the cash (now) and futures contracts. It purchases stocks now and immediately resells them for a small profit in the futures market. Large volumes must be traded to make any substantial gains.
+
+**Market value** | The price of a security is bought or sold at in the marketplace.
+
+**Notional value** | Notional value is the total value the asset in a leveraged position. It is  used in derivatives, options and currency exchanges.
+
 ## Capital markets
 
 Capital markets are markets that connect investor funds and institutions that need them. Investors enter capital markets with the intention of growing money they own, whereas institutions borrow funds for business expansion and day-to-day operations. Capital markets are divided in to two markets. 
