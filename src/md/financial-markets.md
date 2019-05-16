@@ -115,15 +115,21 @@ Types of commodities:
 
 **Currency swap** | Currency swaps involve at least two currencies. Two companies from two countries each need to take a loan in the other country. Banks however, charge high interest rates to foreign companies. The two companies can both take local loans and **swap** the interest rates with each other and enjoy local interest rates.
 
+**Credit default swap** | A CDS acts like an insurance for a financial instrument. If an investor is afraid that a loan he gave out  might default, he can buy a CDS to shift the risk to other parties. If the loan defaults and the investor fails to get his capital back, the CDS issuer repays the investor his losses. The party that takes on the risk will charge an on-going premium.
+
 **Interest rate swap** | Interest rate swaps work the same as currency swaps. The difference is that interest rate swaps deal with swaps in the same currency.
 
 **Total Return Swap** | A TRS is a swap agreement that transfers market and credits risks between two parties. The first party, the payer owns an underlying asset and pays the appreciation and coupons to the receiver. In return, the receiver pays the payer a set fee, usually tied to the LIBOR. This allows the receiver to take a long position - receiving capital gains and coupons without owning the asset. Hedge funds usually enter TRS as the receiver.
 
-**Equity linked note** | An ELNs are fixed income securities with added potential returns. The most common version combines bonds and call options. This provides investors with the security of not losing money but locks their money in at opportunity cost.
-
 **Credit linked note** | A CLN is a security with an embeded credit default swap. Risks of the security are shifted from the buyer of the CLN to other investors for an on-going premium.
 
-**Credit default swap** | A CDS acts like an insurance for a financial instrument. If an investor is afraid that a loan he gave out  might default, he can buy a CDS to shift the risk to other parties. If the loan defaults and the investor fails to get his capital back, the CDS issuer repays the investor his losses. The party that takes on the risk will charge an on-going premium.
+**Equity linked note** | An ELNs are fixed income securities with added potential returns. The most common version combines bonds and call options. This provides investors with the security of not losing money but locks their money in at opportunity cost.
+
+**Valuation adjustment (XVA)** | XVAs are adjustments made to derivatives contracts to account for account funding, credit risks and regulatory costs. After adjustment, the derivatives will be traded at a new price.
+
+- Credit valuation adjustment (CVA): Adjustment to account for counterparty default risk.
+- Funding valuation adjustment (FVA): Adjustment to add funding cost.
+- Debit valuation adjustment (DVA): Adjustment to account for own default risk.
 
 ## Futures markets
 
