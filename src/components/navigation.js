@@ -8,16 +8,16 @@ import './navigation.css';
 const Navigation = props => {
     return (
         <div>
-            <Navbar bg="light" expand="lg" className="navigation">
-                <Goto to="/"><Navbar.Brand>Investment Banking</Navbar.Brand></Goto>
+            <Navbar expand="lg" className="navigation">
+                <Goto to="/"><Navbar.Brand className="investment-banking"><div className="investment-banking">Investment Banking</div></Navbar.Brand></Goto>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                        <Nav.Link><Goto to="/financial-markets/">Financial Markets</Goto></Nav.Link>
-                        <Nav.Link><Goto to="/corporate-banking/">Corporate Banking</Goto></Nav.Link>
-                        <Nav.Link><Goto to="/regulations/">Regulations</Goto></Nav.Link>
-                        <Nav.Link><Goto to="/market-abuse/">Market Abuse</Goto></Nav.Link>
-                        <Nav.Link><Goto to="/organisations/">Organisations</Goto></Nav.Link>
+                        <Nav.Link><Goto to="/financial-markets/"><div className="links">Financial Markets</div></Goto></Nav.Link>
+                        <Nav.Link><Goto to="/corporate-banking/"><div className="links">Corporate Banking</div></Goto></Nav.Link>
+                        <Nav.Link><Goto to="/regulations/"><div className="links">Regulations</div></Goto></Nav.Link>
+                        <Nav.Link><Goto to="/market-abuse/"><div className="links">Market Abuse</div></Goto></Nav.Link>
+                        <Nav.Link><Goto to="/organisations/"><div className="links">Organisations</div></Goto></Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>

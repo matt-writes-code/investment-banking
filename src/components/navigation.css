@@ -1,4 +1,11 @@
 .navigation {
     position:relative;
     width:100%;
+    background-color:#DEDDE0 ;
 }
+
+.investment-banking{
+    color:#50412E;
+}
+
+.links {color:#786145;}
