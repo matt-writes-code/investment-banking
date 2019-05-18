@@ -9,7 +9,7 @@ const Navigation = props => {
     return (
         <div>
             <Navbar expand="lg" className="navigation">
-                <Goto to="/"><Navbar.Brand className="investment-banking"><div className="investment-banking">Investment Banking</div></Navbar.Brand></Goto>
+                <Goto to="/"><Navbar.Brand className="investment-banking"><div className="investment-banking">Coffee News</div></Navbar.Brand></Goto>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
