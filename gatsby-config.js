@@ -27,7 +27,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,
-        short_name: `starter`,
+        short_name: `Investment Banking`,
         start_url: `/`,
         background_color: `#50412E`,
         theme_color: `#50412E`,
