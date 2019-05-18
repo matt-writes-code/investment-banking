@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `Investment Banking`,
+        name: `Coffee News`,
+        short_name: `Coffee News`,
         start_url: `/`,
         background_color: `#50412E`,
         theme_color: `#50412E`,
