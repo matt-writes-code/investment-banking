@@ -13,6 +13,8 @@ Financial markets refer to markets where players can trade securities. Trades ca
 
 **Basis points** | _Bips_ or _bps_ are equivalent to 0.01%. An decrease of 5 _bips_ from 3.05% of interest rates brings it to a new 3.00%.
 
+**Drawdown** | A drawdown is the difference between the peak (highest point) and trough (lowest point) of a price expressed in percentage. It can also be the difference between two peaks across time. Drawdowns are used to calculate risks of an investment.
+
 **Trade date** | The date the order is executed. The price of the security is valued on the trade date but paid on the settlement date. For example, an investor decides to buy company ABC's shares priced at USD7 today, on T+2, he pays the seller that price even if the share price increases 2 days later.
 
 **Settlement date** | The date the buyer must pay the seller. The security bought is transferred from the seller to the buyer. This date marks the legal ownership of the new owner.
