@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Nav, Link } from "react-bootstrap";
+import { Navbar, Nav } from "react-bootstrap";
 import { Link as Goto } from "gatsby";
 import "bootstrap/dist/css/bootstrap.min.css";
 

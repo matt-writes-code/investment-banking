@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import style from "./newsapi.module.css";
+import { Spinner } from 'reactstrap';
 
 const apikey = "7aeb97081f4140d6a65697a01b4c8d95";
 
 const news = items =>
-  `https://newsapi.org/v2/top-headlines?sources=business-insider&apiKey=${apikey}
+  `https://newsapi.org/v2/top-headlines?sources=google-news&apiKey=${apikey}
 `;
 
 const News = props => (
@@ -13,15 +14,15 @@ const News = props => (
       <img src={props.image} className={style.img} />
     </div>
     <div className={style.text}>
-      <div className={style.none}>
-        <b>{props.title}</b>
+      <div className={style.title}>
+        {props.title}
       </div>
-      <div>{props.description}</div>
+      <div className={style.description}>{props.description}</div>
     </div>
   </a>
 );
 
-class BI extends Component {
+class GNews extends Component {
   constructor(props) {
     super(props);
     this.state = {};
@@ -38,10 +39,10 @@ class BI extends Component {
   }
 
   render() {
-    if (!this.state.data) return <p>...</p>;
+    if (!this.state.data) return <div className={style.spinner}><Spinner color="warning" /></div>;
     return (
       <div>
-        <h3>BI</h3>
+        <h3>Google News</h3>
         <div>
           {this.state.data.articles.slice(0, 6).map(x => (
             <News
@@ -57,4 +58,4 @@ class BI extends Component {
   }
 }
 
-export default BI;
+export default GNews;
