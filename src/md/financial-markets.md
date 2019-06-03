@@ -7,9 +7,14 @@ Financial markets refer to markets where players can trade securities. Trades ca
 - Capital markets are long-term finances and trade for more than a year. They provide businesses and governments with long-term funding.
 - Money markets are short-term finances and trade for less than a year. They provide businesses with credit and liquidity over a short-term to meet working capital requirements.
 
-**Bid price** | The maximum price an investor is willing to pay for a security.
+**Alternative Assets** | Assets that are considered out of the mainstream assets such as debt and equity.
+- Capiital Assets: Claims on future cash flow of businesses. Eg. private equity, hedge funds
+- Consumable Assets: Assets that are consumed as part of a production cycle. They do not generate cashflow on their own. Eg. grains, livestock, metals, energy products.
+- Store Value Assets: Assets that preserve wealth during economic uncertainty. Eg. gold and art collections.
 
 **Ask price** | The minimum price an investor is willing  to sell a security for.
+
+**Bid price** | The maximum price an investor is willing to pay for a security.
 
 **Basis points** | _Bips_ or _bps_ are equivalent to 0.01%. An decrease of 5 _bips_ from 3.05% of interest rates brings it to a new 3.00%.
 
