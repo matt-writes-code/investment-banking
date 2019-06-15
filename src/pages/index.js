@@ -5,6 +5,7 @@ import SEO from "../components/seo"
 import BI from '../news/bi'
 import WSJ from '../news/wsj'
 import GNews from '../news/gnews'
+import './index.css';
 
 const IndexPage = ({ data }) => (
   <Layout>
