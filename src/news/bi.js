@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import style from "./newsapi.module.css";
 import { Spinner } from 'reactstrap';
-import '../pages/index.css';
 
 const apikey = "7aeb97081f4140d6a65697a01b4c8d95";
 

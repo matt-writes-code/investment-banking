@@ -5,16 +5,20 @@ import SEO from "../components/seo"
 import BI from '../news/bi'
 import WSJ from '../news/wsj'
 import GNews from '../news/gnews'
-import './index.css';
 
-const IndexPage = ({ data }) => (
-  <Layout>
-    <SEO title="Home" keywords={[`coffee news`, `investment banking`, `financial markets`]} />
-    <h1>Market News</h1>
-    <BI />
-    <WSJ />
-    <GNews />
-  </Layout>
-)
+const IndexPage = ({ data }) => {
+  return (
+    <Layout>
+      <div class="index">
+        <SEO title="Home" keywords={[`coffee news`, `investment banking`, `financial markets`]} />
+        <h1>Market News</h1>
+        <BI />
+        <WSJ />
+        <GNews />
+      </div>
+
+    </Layout>
+  )
+}
 
 export default IndexPage

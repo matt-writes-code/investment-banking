@@ -1,11 +1,3 @@
-body.light-mode {
-    background-color:white;
-    color: black;
-    transition: background-color 0.3s ease;
-}
-
-body.dark-mode {
-    background-color:#212121;
-    color:#d3d3d3;
-    transition: background-color 0.3s ease;
+.index{
+    background-color:green;
 }
