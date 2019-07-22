@@ -19,7 +19,7 @@ Quick notes and references.
 
 **Escrow Agreement** | An escrow agreement is a payments contract between two parties that involves a middle man, like an attorney, that is fulfilled only when all the terms of the contract are met. This works in favour of both parties where the depositor is ensured he will receives the good and the seller is ensured he will be paid.
 
-**Hypothecation agreement** | A hypothecation agreement is an agreement where the lender pledges a security for a loan to the borrower but maintains possession of it unless he defaults. A mortgage is an example of a hypothecation agreement in which the house is a collateral to the borrower but remains under the borrower's possession.
+**Hypothecation agreement** | A hypothecation agreement is an agreement where the lender pledges a security for a loan to the borrower but maintains possession of it unless he defaults. A mortgage is an example of a hypothecation agreement in which the house is a collateral to the lender but remains under the borrower's possession.
 
 **Loan-To-Value** | LTV is the ratio of loan amount to the value of asset. It indicates the risk of the loan against the asset it is financing. Lower LTVs have lower risk. One factor that affects the LTV is the asset price. Borrowers may set a maximum LTV or impose higher interest rates on higher LTVs to minimise their risks.
 
