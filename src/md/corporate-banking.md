@@ -9,6 +9,8 @@ Quick notes and references.
 
 **Back door listing** | Back door listing is an IPO listing strategy that smaller organisations use to get listed without having to go through extensive regulatory filing. These organisations may not meet IPO requirements but still want to gain access to public funding. They commonly merge with larger organisations for the IPO and operate as shell companies to function independently. Back door listing, aka reverse takover, reverse merger or reverse IPOs are not common and are used to avoid time and IPO expenses.
 
+**Bill of exchange** | A bill of exchange is a document like a cheque. A drawer (party that receives money) can issue a bill of exchange to a drawee (party that pays) which can be banked in for payment at a later date. A bill of exchange can be issued by banks or individuals, and payed immediately or at a later date.
+
 **Collateralised Debt Obligation** | CDOs are packaged debts that an investment banks distribute to investors. CDOs are then divided into tranches. Senior tranches are low risk and have the first claim if loans default. Junior tranches have high returns but have the last claim.
 
 **Collateralised Bond Obligation** | CBOs are a package of high-grade bonds and junk bonds mixed together. The package is split into tranches similar to CDOs. Overcollateralisation allow junk bonds to be graded because they are backed by higher grade bonds.
